@@ -52,3 +52,10 @@ fis.config.merge({
 });
 
 ```
+
+Stats
+-----
+
+[![NPM](https://nodei.co/npm/fis-parser-psd.png?downloads=true&stars=true)](https://nodei.co/npm/fis-parser-psd/)
+[![NPM](https://nodei.co/npm-dl/fis-parser-psd.png)](https://nodei.co/npm/fis-parser-psd/)
+
