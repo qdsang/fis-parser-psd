@@ -1,7 +1,7 @@
 {
   "name": "fis-parser-psd",
   "description": "A parser plugin for fis to compile psd file.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "qdsang",
     "email": "qdsang@gmail.com"
